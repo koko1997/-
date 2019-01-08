@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+input{ text-align:left; float:left;margin-bottom:3px;margin-top:3px;}
+body{
+  background: url(../img/bk.jpg);
+  background-repeat:no-repeat;
+	
+}
+#header{
+	Height:300px;
+}
+
+
+#shangchuan{
+	text-align:center;
+	height:80px;
+}
+
+#file{
+	font-size:20px;
+}
+
+#submit{
+	font-size:20px;
+	width:96px;
+	text-align:center;
+}
+
+#xiazai{
+	text-align:center;
+	font-size:20px;
+}
+
+#shangchuan_in{
+	margin:0 auto;
+	width:300px;
+	text-align:center;
+}
+#xiazai_in{
+	margin:0 auto;
+	width:300px;
+	text-align:center;
+	font-size:20px;
+}
